@@ -121,7 +121,7 @@ p, a {
   background-size: 80px 80px;
 }
 
-@media only screen and (min-width : 768px) {
+@media only screen and (max-width : 768px) {
   footer {
     magin: none;
   }
