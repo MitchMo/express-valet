@@ -117,9 +117,9 @@ p, a {
   background-size: 80px 80px;
 }
 
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 500px) {
   .footer-content {
     margin: 0px;
-    padding-left: 0px;
+    padding-left: 0.25px;
   }
 }
