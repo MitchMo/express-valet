@@ -33,6 +33,11 @@ p, a {
   text-shadow: -0.75px 0 red, 0 0.75px red, 0.75px 0 red, 0 -0.75px red;
 }
 
+#content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .content-p {
   color: white;
   font-size: 1.2em;
